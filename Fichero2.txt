@@ -1,1 +1,3 @@
 Es este el fichero 1?
+
+No, este es el fichero2 modificado
